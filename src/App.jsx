@@ -172,7 +172,7 @@ const RosePresentation = () => {
         {
           question: 'Recognition That Mattered',
           items: [
-            '🏆 Top Performer 2024 – validation of consistent effort',
+            '🏆 Top Performer 2024-25 – validation of consistent effort',
             'Client appreciation for Amboss & GEP deliveries',
           ],
         },
