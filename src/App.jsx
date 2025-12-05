@@ -154,10 +154,11 @@ const RosePresentation = () => {
         {
           question: 'Professional Blooms',
           items: [
+            '✨ 3 Years at Niswey – grateful for the journey!',
             '✨ Amboss Project – delivered on-time, quality praised by client',
             '✨ GEP Project – learned a lot; proud moment the partner portal demo, Pranav even mentioned in Hugs & High-Fives that the client gave great feedback',
             '✨ Internal App Niswave (LinkedIn Integration) – learned so much while building it end-to-end with Manoj; we used to sit every weekend planning features and UI, and whenever we got stuck, DP sir guided us. Grateful to Manoj, DP sir, and Niswey for the opportunity',
-            '✨ HubSpot + AI mastery – applied practically across projects',
+            '✨ HubSpot + AI skills – applied practically across projects',
           ],
         },
         {
@@ -166,7 +167,7 @@ const RosePresentation = () => {
             '💰 Salary hike – biggest rose!',
             '💪 Cleared personal loan + house loan → financial freedom',
             '🏠 Successfully moved to new home – a dream realized',
-            "❤️ Meaningful gifts: Abba's phone, small trip",
+            "❤️ Meaningful gifts: Gifted a phone to Abba & small trip",
           ],
         },
         {
